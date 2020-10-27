@@ -1,2 +1,7 @@
 # hello-world
-for git study
+
+Hi 
+
+1
+2
+3
